@@ -1,0 +1,21 @@
+.heading {
+    text-align: center;
+    width: 100%;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+h2, h3{
+    display: inline;
+}
+.big_image{
+    width: 80%;
+    margin: 10px;
+}
+#start, #status{
+    font-size: 22px;    
+}
+#defaultCanvas0{
+    margin-left: 150px;
+}
